@@ -37,3 +37,4 @@ _pycache_
 .pytest_cache
 .db 
 
+pump-api/pump.db
